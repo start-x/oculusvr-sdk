@@ -19,3 +19,10 @@
 *.exe
 *.out
 *.app
+
+# Assets
+*.dds
+
+# Project Files
+*.vcxproj
+
